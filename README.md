@@ -1,4 +1,5 @@
-### Hi there 👋
+# LAZARO ALFONSO TOBAR PAZ
+##### Actualmente estudiante de ingenieria en sistemas en la Universidad Tecnologica de El Salvador
 
 <!--
 **alfonsodev12/alfonsodev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
